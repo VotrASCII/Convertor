@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Angle()
+comment0.text=\r\n\ default\ Constructor\r\n
+comment1.params=
+comment1.target=void\ displaySubMenuFrom()
+comment1.text=\r\n\ display\ From\ Menu\r\n
+comment2.params=
+comment2.target=void\ displaySubMenuTo()
+comment2.text=\r\n\ display\ To\ Menu\r\n
+comment3.params=
+comment3.target=void\ mainAngleConvertor()
+comment3.text=\r\nAngle\ Convertor\r\n
+numComments=4
